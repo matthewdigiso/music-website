@@ -17,14 +17,14 @@
   
   .logo {
     font-size: 35px;
-    color: #3d3a3a;
+    color: #ffffff;
     text-decoration: none;
     font-weight: 700;
   }
   .navbar a {
     position: relative;
     font-size: 18px;
-    color: #3d3a3a;
+    color: #ffffff;
     font-weight: 500;
     text-decoration: none;
     margin-left: 40px;
@@ -50,12 +50,9 @@
     border: black;
   }
   body {
-    background-color: gray;
+    background-color: rgb(0, 0, 0);
   }
-  .parallax {
-    /* The image used */
-    background-image: url("../img/drakealbumsranked.jpg");
-  
+
     /* Set a specific height */
     min-height: 500px; 
   
@@ -67,13 +64,13 @@
   }
   
   .h1 {
-    color: azure;
+    color: rgb(255, 255, 255);
     
   }
   
   
   .title{
-  background-color: #918c8c;
+  background-color: #ffffff;
   border-radius: 50px;
   
   }
@@ -93,13 +90,13 @@
   }
   
   .product {
-  background-color: #b9b3b3;
+  background-color: #ffffff;
   margin: 10px;
   padding: 20px;
   text-align: center;
   width: 300px;
   border-radius: 5px;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 5px rgb(255, 255, 255);
   }
   
   .product img {
