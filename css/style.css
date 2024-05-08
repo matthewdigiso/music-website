@@ -50,11 +50,11 @@
     border: black;
   }
   body {
-    background-color: rgb(0, 0, 0);
+    background-image: url(https://i.redd.it/gdhjrd64bw991.gif);
   }
 
     /* Set a specific height */
-    min-height: 500px; 
+    min-height: 500px; {
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
